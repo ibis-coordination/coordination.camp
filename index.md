@@ -1,15 +1,39 @@
 # Coordination Camp
 
-Coordination Camp is a camp in the tradition of [vibecamp](https://vibe.camp/) where people who meet on the internet come together in person and hang out, coordination themed! 
+<img style="width:100px" src="/spiral-globe.jpg">
 
-Time and place TBD. Follow [@CoordinCamp](https://twitter.com/CoordinCamp) on twitter for updates.
+Coordination Camp is a gathering place for people to learn, teach, and practice group coordination skills.
 
-## The Igloo Spiral Model of Group Coordination
+This website is intended to serve as a hub for people to find and share resources and to connect with others who have mutual interests. The website is [open-source](https://github.com/ibis-coordination/coordination.camp), hosted through GitHub Pages. You can add to this site by submitting a [pull request](https://github.com/ibis-coordination/coordination.camp/pulls).
 
-<img style="width:40%" src="/Igloo_spiral.jpg">
+Discussions can be found on the [discussion forum](https://github.com/ibis-coordination/coordination.camp/discussions).
 
-Igloos are built one snow brick at a time in a continuous spiral where each brick is supported by the previous bricks, forming a self-supporting dome structure. Group coordination can be modeled as a similar pattern.
+To receive email updates, subscribe to the Coordination Camp [Substack](https://coordinationcamp.substack.com/).
 
-The rotational motion represents the group's movement through its operational cycle (i.e. [OODA loop](https://en.wikipedia.org/wiki/OODA_loop)). The vertical motion represents the group's increasing operational competence. And the inward motion represents the group's increasing support that it provides to its members.
+## Learn
 
-As the group gains experience (rotational motion), it becomes more skilled (vertical motion) and better able to support its members (inward motion). The more skillfully the group supports its members, the faster the group can move through its operational cycle and gain even more experience.
+Resources coming soon.
+
+### Topics
+
+* Community building, event hosting, finding your people, social clubs
+* Interpersonal skills, conflict resolution, building trust
+* Mutual aid, co-ops, coliving
+* Culture, language, media, memetics, anthropology
+* Ethics, social norms, contracts
+* Group decision-making, social choice theory, game theory
+* Institutions, governance, politics
+* Common-pool resources, public goods
+* Workplace collaboration, project management, organization design
+* Complex systems, economics, ecology, biology
+* Collective intelligence, self-organizing systems, group learning
+* Team sports, group arts, creative collaboration, collective-player games
+* Technology, system design/engineering
+
+## Teach
+
+Interested in sharing your knowledge through Coordination Camp or linking to your offerings on this website? [Start a discussion](https://github.com/ibis-coordination/coordination.camp/discussions/new?category=teachers) about what you teach, or contact [Dan Allison](mailto:dan.allison@protonmail.com) to talk about what you would like to share.
+
+## Practice
+
+Practice groups coming soon.
