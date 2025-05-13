@@ -21,7 +21,7 @@ Resources coming soon.
 * Mutual aid, co-ops, coliving
 * Culture, language, media, memetics, anthropology
 * Ethics, social norms, contracts
-* Group decision-making, social choice theory, game theory
+* [Group decision-making, social choice theory, game theory](/group-decision-making)
 * Institutions, governance, politics
 * Common-pool resources, public goods
 * Workplace collaboration, project management, organization design
